@@ -1,3 +1,5 @@
+Web app de compra y venta de crypto. Realizado en JS, html, css, React, Redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
